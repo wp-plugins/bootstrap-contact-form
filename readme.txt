@@ -3,6 +3,7 @@ Contributors: malinantonsson
 Tags: contact form, bootstrap, swedish, svenska, kontaktformulär, html5
 Requires at least: 3.0.1
 Tested up to: 4.1
+Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -14,6 +15,8 @@ Bootstrap Contact Form is a wordpress plugin that easily creates contact forms i
 
 The plugin is styled by using Bootstrap classes such as "form-control". It accessible and the input is validated using both HTML5 and PHP before being sent to your specified e-mail.
 
+English shortcode: [bootstrapcontactform_english]
+Swedish shortcode: [bootstrapcontactform_swedish]
 
 == Installation ==
 
@@ -22,6 +25,9 @@ The plugin is styled by using Bootstrap classes such as "form-control". It acces
 3. Go to the Bootstrap Contact Form page which has now been created (Settings  Bootstrap Contact Form).
 4. Enter the e-mail to where you want the messages to be sent to.
 5. Include the shortcode in your posts, pages or anywhere else!
+
+English shortcode: [bootstrapcontactform_english]
+Swedish shortcode: [bootstrapcontactform_swedish]
 
 
 == Screenshots ==
@@ -38,3 +44,6 @@ The plugin is styled by using Bootstrap classes such as "form-control". It acces
 * Easy setup
 * Available in Swedish and English
 * Totally free
+
+English shortcode: [bootstrapcontactform_english]
+Swedish shortcode: [bootstrapcontactform_swedish]

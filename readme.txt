@@ -18,6 +18,8 @@ The plugin is styled by using Bootstrap classes such as "form-control". It acces
 English shortcode: [bootstrapcontactform_english]
 Swedish shortcode: [bootstrapcontactform_swedish]
 
+Official plugin website here: <a href="http://www.malinantonsson.com/bootstrap-contact-form" title="link to official plugin site">www.malinantonsson.com/bootstrap-contact-form</a>
+
 == Installation ==
 
 1. Upload `ma-bootstrapcontactform` to the `/wp-content/plugins/` directory

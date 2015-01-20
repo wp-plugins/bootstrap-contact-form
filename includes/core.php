@@ -122,7 +122,7 @@ function ma_deliver_mail($lang) {
         // get the email address
     	$ma_to = get_option('ma_bootstrapcontactform_email');
  
-        $ma_headers = "From: $name <$email>" . "\r\n";
+        $ma_headers = "From: $ma_name <$ma_email>" . "\r\n";
  		if ($lang == "swe") {
 			if ($ma_error != "") {
 				echo '<div id="errorMessages">' . $ma_error . '</div>';

@@ -2,7 +2,7 @@
 /*
 Plugin Name: MA Bootstrap Contact Form
 Description: Contact Form using Bootstrap styling, available in swedish and english
-Version: 1.1
+Version: 1.4
 Author: Malin Antonsson
 Author URI: http://malinantonsson.com/
 Plugin URI: http://malinantonsson.com/bootstrap-contact-form

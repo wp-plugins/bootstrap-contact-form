@@ -104,7 +104,7 @@ function ma_deliver_mail($lang) {
 			}
 		}
 		
-        $ma_subject = sanitize_text_field( $_POST["contact-form-subject"] );
+        $ma_subject = stripslashes(sanitize_text_field( $_POST["contact-form-subject"] ));
         
 		if (empty($_POST["contact-form-message"])) {
 			if ($lang == "swe") {
@@ -116,7 +116,7 @@ function ma_deliver_mail($lang) {
 			}
 		}
 		else {
-			$ma_message = esc_textarea( $_POST["contact-form-message"] );
+			$ma_message = stripslashes(esc_textarea( $_POST["contact-form-message"] ));
 		}
  
         // get the email address
